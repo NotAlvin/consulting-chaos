@@ -30,7 +30,7 @@ The game now features a complete sequence of 4 minigames:
 
 1. **Email Blast** - Type consulting jargon as fast as possible
 2. **Excel Fire Drill** - Solve quick math problems
-3. **Puzzle Game** - Place Tetris-like pieces on a grid
+3. **Calendar Filling Game** - Place Tetris-like meeting pieces on a grid
 4. **Friday Escape** - Navigate a maze while avoiding enemies
 
 Each minigame has its own scoring system with time-based penalties and performance bonuses.
