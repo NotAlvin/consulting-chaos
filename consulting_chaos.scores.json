@@ -1,0 +1,59 @@
+{
+  "best_total_seconds": 78.32758637497318,
+  "best_individual_times": {
+    "Email Blast": 23.467666249984177,
+    "Excel Fire Drill": 16.168733208993217,
+    "Puzzle Game": 25.5657578749815,
+    "Friday Escape": 4.5174755830084905
+  },
+  "leaderboard": [
+    {
+      "name": "Alvin",
+      "title": "Data Scientist",
+      "total": 78.32758637497318,
+      "individual": {
+        "Email Blast": 23.467666249984177,
+        "Excel Fire Drill": 16.53220695798518,
+        "Puzzle Game": 29.628456792008365,
+        "Friday Escape": 8.699256374995457
+      },
+      "date": 1758874894.212075
+    },
+    {
+      "name": "Alvin",
+      "title": "Data Scientist",
+      "total": 79.1329302080092,
+      "individual": {
+        "Email Blast": 25.13252291599638,
+        "Excel Fire Drill": 16.168733208993217,
+        "Puzzle Game": 29.540016333019594,
+        "Friday Escape": 8.291657750000013
+      },
+      "date": 1758870492.170017
+    },
+    {
+      "name": "Alvin",
+      "title": "Data Scientist",
+      "total": 87.14398662399617,
+      "individual": {
+        "Email Blast": 36.537975457991706,
+        "Excel Fire Drill": 20.522777708014473,
+        "Puzzle Game": 25.5657578749815,
+        "Friday Escape": 4.5174755830084905
+      },
+      "date": 1758869972.991523
+    },
+    {
+      "name": "Alvin",
+      "title": "Data Scientist",
+      "total": 167.98219562598388,
+      "individual": {
+        "Email Blast": 28.267965791979805,
+        "Excel Fire Drill": 98.82632487500086,
+        "Puzzle Game": 35.86691545901704,
+        "Friday Escape": 5.020989499986172
+      },
+      "date": 1758869564.6391811
+    }
+  ]
+}
