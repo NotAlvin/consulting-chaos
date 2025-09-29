@@ -4,7 +4,7 @@ This is a refactored version of the Consulting Chaos game, organized into separa
 
 ## Game demo playing at 4x speed
 
-![til]([https://github.com/NotAlvin/consulting-chaos/blob/main/consulting_chaos_gif.gif])
+![]([./consulting_chaos_gif.gif])
 
 
 ## File Structure
